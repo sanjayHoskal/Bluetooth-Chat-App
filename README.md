@@ -14,30 +14,6 @@ using this project of Android Bluetooth Chat.
 
 ##### Messenger application to share files and text messages using RFCOMM/Socket channel
 
-## DFD
-
-<img src="images/DFD.png"/>
-
-
-## Screenshots
-<table height="650">
-  <tr>
-    <td valign="top">
-      <img src="images/pairinglist.jpeg" width=30%/>
-      <img src="images/realme.jpeg" width=30%/>
-      <img src="images/passcode verify.jpeg" width=30%/>
-    </td>
-   </tr>
-</table>
-<table height="650">
-  <tr>
-    <td valign="top">
-      <img src="images/chat demo 1.jpeg" width=30%/>
-      <img src="images/chat demo 2.jpeg" width=30%/>
-    </td>
-   </tr>
-</table>
-
 
 # Modules
 
